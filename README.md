@@ -4,7 +4,7 @@ clj-protocol enables declarative definition of network protocols and
 binary formats.
 
 Full API Documentation (generated with codox) is available
-[here](https://lonocloud.github.io/clj-protocol/www/index.html).
+[here](https://viasat.github.io/clj-protocol/www/index.html).
 
 clj-protocol is primarily designed for use in ClojureScript (due to
 stronger host networking interfaces), however, the core libraries also
@@ -191,7 +191,7 @@ If you are using Clojure (JVM) then run tests using leiningen:
 lein test
 ```
 
-Use docker-compose and [conlink](https://github.com/LonoCloud/conlink)
+Use docker-compose and [conlink](https://github.com/Viasat/conlink)
 to launch a self-contained network environment that runs the DHCP
 client, server, and ping client.
 

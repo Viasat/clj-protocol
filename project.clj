@@ -18,4 +18,4 @@
    :doc-files ["docs/tutorial.md" "docs/examples.md"]
    :output-path "docs/www"
    :metadata {:doc/format :markdown}
-   :source-uri "http://github.com/LonoCloud/clj-protocol/blob/{git-commit}/{filepath}#L{line}"})
+   :source-uri "http://github.com/Viasat/clj-protocol/blob/{git-commit}/{filepath}#L{line}"})
